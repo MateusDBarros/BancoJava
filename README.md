@@ -30,3 +30,8 @@ A classe `Main` é o ponto de entrada do programa. Ela gerencia a criação de c
 - **Depósito**: Permite depositar um valor em uma conta.
 - **Transferência**: Permite transferir valores entre contas.
 - **Exibir Conta**: Exibe as informações de uma conta.
+
+## Contato
+Para mais informações, entre em contato via
+- [LinkedIn](https://www.linkedin.com/in/mateus-barros13)
+- [Email](mb685212@gmail.com)
